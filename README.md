@@ -1,5 +1,4 @@
-# Final phase 1
-## Topic: Docker security
+# Docker security
 
 Author: **Vo Minh Thien Long**
 
